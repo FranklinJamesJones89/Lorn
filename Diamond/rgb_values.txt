@@ -1,0 +1,5 @@
+player_hat = (0,0,0)
+player_shoes = (87, 87, 87)
+player_pants = (182, 234, 255)
+
+
